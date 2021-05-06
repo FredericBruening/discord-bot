@@ -1,0 +1,11 @@
+{
+    "name": "stoned-bot",
+    "version": "1.0.0",
+    "description": "High bot",
+    "main": "bot.js",
+    "author": "Frederic B.",
+    "dependencies": {
+        "discord.js": "^12.5.3",
+        "winston": "^3.3.3"
+    }
+}
